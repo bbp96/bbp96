@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Benjamín 👋
 
-<!--
-**bbp96/bbp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** based in Chile, specializing in high-performance web architectures. My focus is on pushing the limits of **WordPress** and **Frontend Engineering**, moving beyond standard themes to build custom, scalable, and optimized solutions for enterprise clients (like Coca-Cola/Andina).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+* **Core:** JavaScript (ES6+), PHP, HTML5 (Canvas/Semantics), CSS3 (Advanced Layouts).
+* **CMS & Architecture:** WordPress (Custom Themes/Plugins), Elementor (Advanced Logic).
+* **Performance:** Core Web Vitals Optimization, Asset Management, Lottie/Canvas Rendering.
+* **Tools:** Git, VS Code, Figma (Pixel-perfect implementation).
+
+---
+
+### 🚀 Current Focus
+
+* Developing complex frontend interactions using **IntersectionObserver** and **GPU Acceleration**.
+* Implementing **Lottie Animations** via Canvas for 60fps mobile performance.
+* Building maintainable documentation for architectural handovers.
+
+---
+
+### ⚡ Philosophy
+> *"Code is meant to be maintained, not just executed. Maximizing competence over comfort."*
+
+[![](https://visitcount.itsvg.in/api?id=bbp96&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
