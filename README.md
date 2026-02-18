@@ -1,6 +1,6 @@
 ### Hi there, I'm Benjamín 👋
 
-I'm a **Senior Software Engineer** based in Chile, specializing in high-performance web architectures. My focus is on pushing the limits of **WordPress** and **Frontend Engineering**, moving beyond standard themes to build custom, scalable, and optimized solutions for enterprise clients (like Coca-Cola/Andina).
+I'm a **Senior Software Engineer** based in Chile, specializing in high-performance web architectures. My focus is on pushing the limits of **WordPress** and **Frontend Engineering**, moving beyond standard themes to build custom, scalable, and optimized solutions for enterprise clients.
 
 ---
 
